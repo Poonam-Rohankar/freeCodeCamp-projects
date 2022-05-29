@@ -4,13 +4,17 @@ These are just practice projects I have completed during freeCodeCamp's web-desi
 Preview :
 
 1.technical documentation:
-link: technicaldocumentation.surge.sh 
+
+http:\\\technicaldocumentation.surge.sh 
 
 2.tribute page 
-link:sample-tribute.surge.sh 
 
-3.product landing page 
-link:sample-product.surge.sh  
+http:\\\sample-tribute.surge.sh 
 
-4.personal portfolio 
-link:mysample-portfolio.surge.sh
+3.product landing page
+
+http:\\\sample-product.surge.sh  
+
+4.personal portfolio
+
+http:\\\mysample-portfolio.surge.sh
